@@ -14,4 +14,8 @@
 //= require activestorage
 //= require jquery
 //= require jquery_ujs
+//= require paloma
+//= require initializer
+//= require tasks
 //= require_tree .
+
