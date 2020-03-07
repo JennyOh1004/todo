@@ -8,11 +8,13 @@
 
 <img width="813" alt="Screen Shot 2020-03-07 at 3 15 20 PM" src="https://user-images.githubusercontent.com/43684968/76153820-8450e680-6086-11ea-9815-d0a4168f6f86.png">
 
-> This application allows users to update a task, specifically to support the ability to toggle an item's completion status, I add the ability to update a task through a RESTful JSON API.
+> I loaded the tasks from the backend srver using an AJAX request, then built up HTML list items for each of the tasks in the database. This application allows users to update a task, specifically to support the ability to toggle an item's completion status, I add the ability to update a task through a RESTful JSON API.
 
 
 <img width="813" alt="Screen Shot 2020-03-07 at 3 15 28 PM" src="https://user-images.githubusercontent.com/43684968/76153822-84e97d00-6086-11ea-93a8-657a14de9969.png">
 
+
+I add the ability to show tasks from the database and toggled the completion status. Then, I created a form which allows users to create new tasks from within the application. I add support for creating a new task through a RESTful JSON API. and Then, I triggered this API request when the form is submitted.
 
 
 Heroku: https://todoster-jenny-oh.herokuapp.com/
